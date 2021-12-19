@@ -41,6 +41,11 @@ _Capturing the basics of Github including setup and sync_
 - Give the requisite details including repo-name, public/private etc:-
 - Include readme file to the same and create the repo
 - Open git command terminal and go the requisite folder where you want to clone the repo from github
-- Clone the repo using the command - git clone <ssh key> (You can get the ssh key of the respective folder by pressing the green button labelled 'Code' inside each repo)
-  
+- Clone the repo using the command - git clone (ssh key) (You can get the ssh key of the respective folder by pressing the green button labelled 'Code' inside each repo)
+
+### Adding files and pushing to github
+- Add requisite files to the cloned folder
+- Add all files using command -> git add .
+- Commit all files using command -> git commit -m "Comment"
+- Sync up the folder with respective github repo using command -> git push
 
