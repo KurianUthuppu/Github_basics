@@ -49,3 +49,6 @@ _Capturing the basics of Github including setup and sync_
 - Commit all files using command -> git commit -m "Comment"
 - Sync up the folder with respective github repo using command -> git push
 
+### To know status and sync files from Github
+- To know the current status of the files in the git folder on your local system, use command -> git status
+- To sync with the recent changes in the files on Github, use command -> git pull or git pull origin master(main branch) (In case the master folder is not set yet)
