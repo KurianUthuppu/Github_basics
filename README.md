@@ -10,6 +10,7 @@ _Capturing the basics of Github including setup and sync_
 
 ### Resources
 * Useful youtube video from freeCodeCamp.org - https://youtu.be/RGOj5yH7evk
+* Emoji page - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ### Setting up your account in Github
 - This is relatively simple and straightforward once you arrive at https://github.com/
